@@ -1,0 +1,8 @@
+img{
+    
+    width: 300px;
+    height: 300px;
+}
+.animate__animated.animate__bounce {
+    --animate-duration: 2s;
+  }
